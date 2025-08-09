@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "648787460832",
+    "project_id": "sportvenue-9686c",
+    "storage_bucket": "sportvenue-9686c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648787460832:android:b7bbf6a1e69f280ea8c685",
+        "android_client_info": {
+          "package_name": "com.example.sportvenue"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCm1YQpVlEo7GDSl26g3Zsyb3O4QETiO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
